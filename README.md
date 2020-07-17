@@ -1,2 +1,2 @@
 # goprojects
-Go project repos
+Includes all the files for goprojects.
