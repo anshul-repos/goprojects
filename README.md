@@ -4,3 +4,4 @@ Create an app with API
   -API must fetch all users info
   -API must update user info
   -API delete user info
+ Create databse in mysql
